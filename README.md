@@ -1,5 +1,4 @@
-## Java-Ex-08
-### Using Inheritance one class can acquire the properties of others.
+## Ex-07 Using Inheritance one class can acquire the properties of others.
 ## Aim:-
 To write a Java program using inheritance one class can acquire the properties of others.
 
@@ -23,6 +22,8 @@ Using the 'extends' keyword you can inherit classes, do the same with above crea
 Display the statements from the first and second Class using Solution Class in the terminal.
 
 ## Program:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 ```java
 class Animal{
 void walk(){
